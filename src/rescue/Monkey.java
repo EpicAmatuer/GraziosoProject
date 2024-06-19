@@ -1,5 +1,5 @@
 /* James Greene
- * Due: 2-25-2024 */
+ * 2-25-2024 */
 
 package rescue;
 
