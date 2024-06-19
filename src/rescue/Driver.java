@@ -1,7 +1,5 @@
 /* James Greene
- * IT-145-X3331
- * Project Two - Driver
- * Due: 2-25-2024 */
+ * 2-25-2024 */
 
 package rescue;
 
