@@ -1,6 +1,4 @@
 /* James Greene
- * IT-145-X3331
- * Project Two - Monkey
  * Due: 2-25-2024 */
 
 package rescue;
